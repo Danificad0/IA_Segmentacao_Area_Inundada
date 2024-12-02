@@ -27,7 +27,7 @@ O objetivo é identificar automaticamente regiões inundadas em imagens, o que p
    Certifique-se de que os dados estão disponíveis no diretório correto, conforme especificado no notebook.
 
 ## Tecnologias Utilizadas
-**Python**: Linguagem principal para desenvolvimento.
-**TensorFlow/Keras**: Framework para construção e treinamento do modelo.
-**NumPy e Pandas**: Manipulação de dados.
-**Matplotlib**: Visualização de resultados.
+1. **Python**: Linguagem principal para desenvolvimento.
+2. **TensorFlow/Keras**: Framework para construção e treinamento do modelo.
+3. **NumPy e Pandas**: Manipulação de dados.
+4. **Matplotlib**: Visualização de resultados.
